@@ -1,2 +1,3 @@
 # hello-world
-Create a repository for the first time.
+
+I'm now enjoying using Homebridge for the home automation.
